@@ -12,7 +12,7 @@
 ---
 
 ### 🌱 About Me
-- 🔭 I’m currently working as an **MIS Analyst**  
+- 🔭 I’m currently working as an **MIS Executive**  
 - 🌱 Learning **Data Engineering Skills**  
 - 💬 Ask me about **SQL, Python, Power BI, R**  
 - 📫 Reach me at **jitendrahere01@gmail.com**  
