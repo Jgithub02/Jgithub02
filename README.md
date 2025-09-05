@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/CodeChef-SQL%20AT%20Work-brown?style=for-the-badge&logo=codechef" />
   </a>
 </p>
----
+
 ### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jgithub02&show_icons=true&theme=tokyonight" height="160"/>
