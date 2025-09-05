@@ -13,7 +13,7 @@
 
 ### 🌱 About Me
 - 🔭 I’m currently working as an **MIS Executive**  
-- 🌱 Learning **Data Engineering Skills**  
+- 🌱 Learning **Advance Analytics**  
 - 💬 Ask me about **SQL, Python, Power BI, R**  
 - 📫 Reach me at **jitendrahere01@gmail.com**  
 
