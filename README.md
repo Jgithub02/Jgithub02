@@ -36,7 +36,14 @@
 </p>
 
 ---
+### 🏆 Badges & Certifications
+<p align="center">
+<!-- CodeChef -->
+<img src= "https://www.codechef.com/certificates/public/2d01155" />
+<img src= "https://www.hackerrank.com/certificates/iframe/5d3cc7a9bc02" />  
+</p>
 
+---
 ### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jgithub02&show_icons=true&theme=tokyonight" height="160"/>
