@@ -37,12 +37,32 @@
 
 ---
 ### 🏆 Badges & Certifications
-<p align="center">
-<!-- CodeChef -->
-<img src= "https://www.codechef.com/certificates/public/2d01155" />
-<img src= "https://www.hackerrank.com/certificates/iframe/5d3cc7a9bc02" />  
-</p>
+ <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/certificates/5d3cc7a9bc02">
+    <img src="https://img.shields.io/badge/Python%20(Basic)-HackerRank-brightgreen?style=for-the-badge&logo=hackerrank" />
+  </a>
 
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/certificates/public/2d01155">
+    <img src="https://img.shields.io/badge/CodeChef-Learn%20SQL%20-brown?style=for-the-badge&logo=codechef" />
+  </a>
+
+  <a href="https://www.codechef.com/certificates/public/574d973">
+    <img src="https://img.shields.io/badge/CodeChef-Pytghon%20Basic-brown?style=for-the-badge&logo=codechef" />
+  </a>
+
+  <a href="https://www.codechef.com/certificates/public/da496cc">
+    <img src="https://img.shields.io/badge/CodeChef-Advance%20SQL-brown?style=for-the-badge&logo=codechef" />
+  </a>
+
+  <a href="https://www.codechef.com/certificates/public/41042e7">
+    <img src="https://img.shields.io/badge/CodeChef-SQL%20Practice-brown?style=for-the-badge&logo=codechef" />
+  </a>
+
+  <a href="https://www.codechef.com/certificates/public/a7e6c57">
+    <img src="https://img.shields.io/badge/CodeChef-SQL%20AT%20Work-brown?style=for-the-badge&logo=codechef" />
+  </a>
+</p>
 ---
 ### 📊 GitHub Analytics
 <p align="center">
