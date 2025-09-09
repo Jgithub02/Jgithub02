@@ -76,12 +76,7 @@
 
 ---
 
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgithub02&theme=react-dark&hide_border=true&area=true" />
-</p>
 
----
 
 ### ✨ Fun Zone
 <p align="center">
@@ -93,3 +88,13 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jgithub02&label=Profile+Views&color=2f81f7&style=for-the-badge" alt="views" /> 
 </p>
+
+--- 
+### 📈 Current LeetCode Streak <!-- Add LeetCode streak badge --> 
+<div> <p align="center"> <img src="https://leetcode-stats.vercel.app/api?username=Jitendrahere01&theme=dark" alt="LeetCode Streak" /> 
+ 
+
+
+
+
+
