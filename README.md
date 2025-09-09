@@ -46,7 +46,7 @@
 
   <!-- CodeChef -->
   <a href="https://www.codechef.com/certificates/public/2d01155">
-    <img src="https://img.shields.io/badge/CodeChef-Learn%20SQL%20-brown?style=for-the-badge&logo=codechef" />
+    <img src="https://img.shields.io/badge/Learn%20SQL%20-CodeChef-brown?style=for-the-badge&logo=codechef" />
   </a>
 
   <a href="https://www.codechef.com/certificates/public/574d973">
