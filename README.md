@@ -78,9 +78,7 @@
 
 ### 🔥 Streak Stats (GitHub + LeetCode)
 <p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgithub02&theme=tokyonight" height="200" alt="GitHub Streak"/>
-
+  
   <!-- LeetCode Streak -->
   <a href="https://leetcode.com/u/Jitendrahere01/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Jitendrahere01?theme=dark&font=Fira%20Code&ext=heatmap&ext=contest" height="200" alt="LeetCode Stats"/>
