@@ -68,15 +68,18 @@
 
 ---
 
-
 ### 📊 GitHub Analytics
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=jgithub02&show_icons=true&theme=tokyonight" height="160"/>
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgithub02&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgithub02&theme=tokyonight" height="160"/>
+  <!-- Current Streak -->
+  <img src="https://streak-stats.demolab.com?user=jgithub02&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
