@@ -39,6 +39,12 @@
 
 ### 🏆 Badges & Certifications
 <p align="center">
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/jitendrakumar2003" target="_blank">
+    <img src="https://storage.googleapis.com/kaggle-media/competitions/badges/expert.svg" width="80" alt="Competitions Expert Badge" />
+  </a>
+  
+<p align="center">
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/certificates/5d3cc7a9bc02">
     <img src="https://img.shields.io/badge/Python%20(Basic)-HackerRank-brightgreen?style=for-the-badge&logo=hackerrank" />
