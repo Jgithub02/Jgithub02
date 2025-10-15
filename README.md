@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=2F81F7&center=true&vCenter=true&width=600&height=50&lines=SQL+%7C+Python+%7C+Power+BI+%7C+R;Always+learning+new+skills;Turning+data+into+insights+%F0%9F%93%8A;Passionate+about+Data+Engineering+%26+Analytics" />
 </p>
-
 ---
 
 ### 🌱 About Me
